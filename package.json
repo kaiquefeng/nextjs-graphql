@@ -19,7 +19,6 @@
     "lint": "next lint",
     "codegen": "graphql-codegen",
     "prepare": "npm run build",
-    "prepublishOnly": "npm test && npm run lint",
     "preversion ": "npm run lint",
     "version": "npm run format && git add -A src",
     "postversion": "git push origin main && git push --tags"

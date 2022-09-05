@@ -1,4 +1,4 @@
-Boilerplate NextJS + GRaphQL
+Boilerplate NextJS + GraphQL
 
 using in boilerplate:
 
